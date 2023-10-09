@@ -1,4 +1,4 @@
-[![MasterHead](https://gifer.com/en/W9kX)
+[![MasterHead](https://gifer.com/en/W9kX)]
 <h1 align="center">Hi 👋, I'm Trisha Mandal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif"
